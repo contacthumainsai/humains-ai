@@ -1,0 +1,28 @@
+COPYRIGHT NOTICE
+----------------
+
+© 2025 Abdelilah Saali  
+Maroc  
+Email : contacthumains.ai@gmail.com  
+
+Projet : HUMAINS.AI — Passeport Médical Universel  
+Date de publication initiale : 19 octobre 2025  
+Lieu : Dépôt public GitHub (https://github.com/contacthumainsai/humains-ai)
+
+Description :
+HUMAINS.AI est un concept et prototype technologique humanitaire visant à créer un passeport médical universel basé sur le QR code et l’intelligence artificielle.
+
+Statut :
+Œuvre originale et protégée par le droit d’auteur international (Convention de Berne, 1886).
+
+Licence appliquée :
+Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International  
+(CC BY-NC-ND 4.0)
+
+Avertissement :
+Toute reproduction, distribution, modification ou usage commercial sans autorisation écrite de l’auteur est strictement interdite.
+
+---
+Signé électroniquement,  
+Abdelilah Saali  
+Maroc — 19 octobre 2025
